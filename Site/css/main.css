@@ -351,5 +351,10 @@ p{
     line-height: 1.5;
 }
 
+@media (max-width: 1199px){
+    .container{
+        width: 960px;
+    }
+}
 
 
